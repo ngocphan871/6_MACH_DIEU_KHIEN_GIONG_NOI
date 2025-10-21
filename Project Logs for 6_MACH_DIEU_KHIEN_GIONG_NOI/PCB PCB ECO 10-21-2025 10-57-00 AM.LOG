@@ -1,0 +1,8 @@
+Added Component: Designator=IC2(SSOP-24)
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "TB6612FNGC8ELTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C141517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "TB6612FNG,C,8,EL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-24"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component IC2 TB6612FNG
+Added Room: Name=Sheet

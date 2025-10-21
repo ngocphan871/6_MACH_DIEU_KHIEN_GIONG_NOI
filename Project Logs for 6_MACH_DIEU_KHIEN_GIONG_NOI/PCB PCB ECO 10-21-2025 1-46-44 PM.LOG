@@ -1,0 +1,13 @@
+Added Component: Designator=CN1(SMD-SD CARD)
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C393941"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "TF PUSH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(HTSSOP-32-EP-6.1mm-TPA3116D2)
+Add component (AddParameter): Name = "LCSC Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QSOP24"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component CN1 SD Card
+Added Member To Class: ClassName=Sheet Member=Component IC3 MH2024K-24SS

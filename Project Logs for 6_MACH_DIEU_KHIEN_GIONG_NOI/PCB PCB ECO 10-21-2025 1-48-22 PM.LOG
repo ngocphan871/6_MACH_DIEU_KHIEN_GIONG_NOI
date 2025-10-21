@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC3 Old Footprint=HTSSOP-32-EP-6.1mm-TPA3116D2 New Footprint=QSOP-24
+Added Member To Class: ClassName=Sheet Member=Component CN1 SD Card
+Added Room: Name=Sheet
