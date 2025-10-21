@@ -1,0 +1,9 @@
+Added Component: Designator=IC1(TSSOP-20)
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "497-STM32G030F6P6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C724040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Audio-Amplifiers_Jiaxing-Heroic-Elec-Tech-HT6818_C130782.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "STM32G030F6P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chna_Cam"; Value = "0"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component IC1 STM32G030F6P6

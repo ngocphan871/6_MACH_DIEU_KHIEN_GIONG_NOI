@@ -1,0 +1,16 @@
+Added Component: Designator=IC1(LQFP-48(7x7))
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-48(7x7)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan_Cam"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan_Dan"; Value = "48"; VariantName = "[No Variations]"
+Added Component: Designator=M1(SMD,17x18mm(VC-02))
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "4570-VC-02TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C3039678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ai-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "VC-02_EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,17x18mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component IC1 STM32F103C8T6
+Added Member To Class: ClassName=Sheet Member=Component M1 VC-02
+Added Room: Name=Sheet

@@ -1,0 +1,10 @@
+Change Component Comment : Designator=IC1 Old Comment=STM32F103C8T6 New Comment=STM32G030F6P6
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "LQFP-48(7x7)"; UniqueID = "\ZMMUDSAW" ("\ZMMUDSAW")
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "497-STM32G030F6P6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C724040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Audio-Amplifiers_Jiaxing-Heroic-Elec-Tech-HT6818_C130782.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr.Part #"; Value = "STM32G030F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chna_Cam"; Value = "0"; VariantName = "[No Variations]"
+Added Room: Name=Sheet
